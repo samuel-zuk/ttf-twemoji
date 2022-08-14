@@ -12,6 +12,8 @@ I do not own the graphics, nor the font files, I'm just sharing them in a way th
 
 The module is confirmed to work in LineageOS 18.1 (Android 11) and Magisk 20+. But there have been reports that it doesn't seem to work on Android 12.
 
+This fork adds a patch for my LG V60 ThinQ.
+
 ## Attribution
 
 [Twitter Emoji for everyone!](https://github.com/twitter/twemoji)
